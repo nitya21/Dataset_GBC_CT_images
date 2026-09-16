@@ -1,6 +1,6 @@
 # Gallbladder Cancer (GBC) Image Dataset
 
-This repository contains the official dataset page for the **Gallbladder Cancer (GBC) Image Dataset**.
+This repository contains the official dataset page for the **Gallbladder Cancer (GBC) Image Dataset**. This dataset is an outcome of the Research project titled "**Radiomics with machine learning methods towards identification of gallbladder cancer**" sponsored by **ICMR, New Delhi**.
 
 ## Download Dataset
 
